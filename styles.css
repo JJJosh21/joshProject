@@ -1,0 +1,13 @@
+body {
+	background-image:"http://laughingsquid.com/wp-content/uploads/2013/07/article-2358196-1AB74154000005DC-658_964x870.jpg";
+}
+p {
+	color:red;
+}
+p#yolo {
+	color:orange;
+}
+
+p.egg {
+	color:white;
+}
